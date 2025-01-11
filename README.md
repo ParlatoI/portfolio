@@ -1,21 +1,28 @@
 # Data Science Portfolio
 ### Isabella Parlato
+Aspiring Data Scientist | MS in Data Science (2026)
 
 ## Education
-- Bachelor Arts in English, with a specialization in Creative Writing with Minors in Biology and Natural Resources Conservation (graduated May 2015)
-- Currently pursuing a M.S. in Data Science (expected graduation date of March 2026)
+- **M.S. in Data Science** (Expected: March 2026) - Merrimack College
+  - Relevant Courses Taken: R and Python Programming
+  - Upcoming Spring Semester Courses: AI for Text and Images, and Predictive Modeling
+- **B.A. in English, Specialization in Creative Writing** (May 2015) - University of Massachusetts Amherst
+  - Minors in Biology and Natural Resources Conservation
 
 ## Projects
-### Project 1: R Project for the following course: R and Python Programming
-- Utilized R to clean and prepare a dataset for analysis, with the objective of providing a comprehensive analysis of global data science salaries. The analysis aimed to propose a competitive salary range for attracting top talent in future job postings.
-- After data cleaning, statistical and visualization methods were applied to derive insights, and a concise PowerPoint presentation was created to summarize findings and suggested salary ranges.
+### Project 1: Global Data Science Salaries (R)
+- **Objective**: Clean and analyze global data science salary trends to propose competitive salary ranges.
+- **Methods**: Data cleaning, statistical analysis, and visualizations using R.
+- **Results**: Presented insights in a comprehensive PowerPoint, suggesting salary benchmarks.
 - [R Project - RMD Code File](https://github.com/ParlatoI/portfolio/blob/main/project1_R/isabellaparlato.module05RProject.Rmd)
-- [R Project - PDF Code File](https://github.com/ParlatoI/portfolio/blob/main/project1_R/isabellaparlato.module05RProject.pdf)
 - [R Project - Resulting Powerpoint](https://github.com/ParlatoI/portfolio/blob/main/project1_R/isabellaparlato.rproject.dse5002.pptx)
 
-### Project 2: Python Project for the following course: R and Python Programming
-- Tasked with integration and analysis of multiple datasets, including both provided datasets and external sources, to identify the top five locations globally where salaries offer the highest value in relation to the cost of living. 
-- Used Python in Jupyter Notebook for data wrangling, cleaning, and combining datasets to perform statistical analysis and create visualizations supporting conclusions.
-- Incorporated external data on gender equality rankings to refine the analysis, ensuring that the recommended locations aligned with both cost of living considerations and personal criteria, such as gender-related quality of life factors.
+### Project 2: Cost of Living vs. Salary Analysis (Python)
+- **Objective**: Analyze and compare global salaries to cost of living data to find optimal global locations for talent acquisition.
+- **Methods**: Data wrangling, visualization, and statistical analysis using Python in Jupyter Notebook.
+- **Results**: Visualized top locations with interactive plots.
 - [Python Project - Jpynb Code File](https://github.com/ParlatoI/portfolio/blob/main/Project2_Python/isabellaparlato.module08PythonProject.ipynb)
-- [Python Project - PDF Code File](https://github.com/ParlatoI/portfolio/blob/main/Project2_Python/isabellaparlato.module08PythonProject.pdf)
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/isabellaparlato)
+- [Email](parlatoi@merrimack.edu)
