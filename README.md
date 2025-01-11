@@ -17,3 +17,5 @@
 - Tasked with integration and analysis of multiple datasets, including both provided datasets and external sources, to identify the top five locations globally where salaries offer the highest value in relation to the cost of living. 
 - Used Python in Jupyter Notebook for data wrangling, cleaning, and combining datasets to perform statistical analysis and create visualizations supporting conclusions.
 - Incorporated external data on gender equality rankings to refine the analysis, ensuring that the recommended locations aligned with both cost of living considerations and personal criteria, such as gender-related quality of life factors.
+- [Python Project - Jpynb Code File](https://github.com/ParlatoI/portfolio/blob/main/Project2_Python/isabellaparlato.module08PythonProject.ipynb)
+- [Python Project - PDF Code File](https://github.com/ParlatoI/portfolio/blob/main/Project2_Python/isabellaparlato.module08PythonProject.pdf)
