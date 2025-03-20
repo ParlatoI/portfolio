@@ -4,8 +4,8 @@ Aspiring Data Scientist | MS in Data Science (2026)
 
 ## Education
 - **M.S. in Data Science** (Expected: March 2026) - Merrimack College
-  - Relevant Courses Taken: R and Python Programming
-  - Upcoming Spring Semester Courses: AI for Text and Images, and Predictive Modeling
+  - Courses Taken: Intro to Data Science and Statistics, R and Python Programming, and AI for Text and Images
+  - Current Spring Semester Course: Predictive Modeling
 - **B.A. in English, Specialization in Creative Writing** (May 2015) - University of Massachusetts Amherst
   - Minors in Biology and Natural Resources Conservation
 
